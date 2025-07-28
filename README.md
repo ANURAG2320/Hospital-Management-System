@@ -1,1 +1,1 @@
-A comprehensive, role-based hospital management platform built with **Angular**, **Spring Boot**, and **MySQL**. This project streamlines both clinical and administrative tasks including appointment scheduling, prescription handling, and inventory management — all in a responsive and secure interface.
+
